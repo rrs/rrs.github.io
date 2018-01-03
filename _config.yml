@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: rrs
+logo: https://github.com/rrs/rrs.github.io/blob/master/images/rrslogo.png
+plugins:
+  - jekyll-seo-tag
